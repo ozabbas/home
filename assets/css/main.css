@@ -2060,11 +2060,12 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		position: relative;
-		/* height: ; */
-		padding-bottom:15%;
-		background: url("../../images/IMG_4816.jpg") center center;
-		background-size: cover;
+		background: url("../../images/IMG_4794.jpg")center center;
+		background-size: 100% 100%;
+		width: 100%;
+
 		padding: 0;
+		background-repeat: no-repeat;
 	}
 
 		#header:before {
